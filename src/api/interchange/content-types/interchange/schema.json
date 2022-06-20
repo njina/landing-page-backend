@@ -1,10 +1,11 @@
 {
   "kind": "collectionType",
-  "collectionName": "interchanages",
+  "collectionName": "interchanges",
   "info": {
-    "singularName": "interchanage",
-    "pluralName": "interchanages",
-    "displayName": "interchanage"
+    "singularName": "interchange",
+    "pluralName": "interchanges",
+    "displayName": "interchange",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
